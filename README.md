@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jonathan!
-- 👀 I’m interested in Sailing, aviation and Web Development
+- 👀 I’m interested in Sailing, Aviation and Web Development
 - 🌱 I just started learning Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
