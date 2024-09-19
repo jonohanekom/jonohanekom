@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jonathan!
-- 👀 I’m interested in Sailing, Aviation and Web Development
-- 🌱 I just started learning Javascript
+- 👀 I’m interested in Software development and aviation.
+- 🌱 I just started learning Python
 
 <!---
 jonohanekom/jonohanekom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
