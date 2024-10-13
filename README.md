@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jonathan!
-- 👀 I’m interested in Software development and aviation.
+- 👀 I’m interested in software development and aviation.
 - 🌱 I just started learning Python
 
 <!---
